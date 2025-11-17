@@ -1,0 +1,4 @@
+org/example/banco/entity/Conta.class
+org/example/banco/service/ContaService.class
+org/example/banco/repository/ContaRepository.class
+org/example/banco/CrudT1Application.class
